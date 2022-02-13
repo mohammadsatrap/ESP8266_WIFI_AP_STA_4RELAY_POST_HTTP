@@ -1,0 +1,6 @@
+{
+    "board": "esp8266:esp8266:nodemcuv2",
+    "configuration": "xtal=80,vt=flash,exception=disabled,ssl=all,eesz=4M1M,ip=lm2f,dbg=Serial,lvl=None____,wipe=sdk,baud=115200",
+    "sketch": "ESP8266_WIFI_AP_STA_4RELAY_POST_HTTP.ino",
+    "port": "/dev/ttyUSB0"
+}
